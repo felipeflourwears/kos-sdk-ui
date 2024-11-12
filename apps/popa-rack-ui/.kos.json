@@ -1,0 +1,13 @@
+{
+  "name": "popa-rack-ui",
+  "type": "popa.rack.ui",
+  "version": "0.1.0",
+  "kos": {
+    "localization": {
+      "defaultLocale": "en",
+      "namespaces": {
+        "popa-rack": {}
+      }
+    }
+  }
+}

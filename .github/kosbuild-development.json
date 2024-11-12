@@ -1,0 +1,17 @@
+{
+    "default_keyset": "test.kos-demos",
+    "build_cmd": ".github/build.sh",
+  
+    "artifacts": [
+      {
+        "id": "demo-popa-rack-ui",
+        "filename": "dist/archives/packages/popa-rack-ui/popa-rack-ui.kab",
+        "artifactstore": "kosDemoRepo"
+      },
+      {
+        "id": "demo-popa-attract-screen",
+        "filename": "resources/demo-popa-attract-screen.kab",
+        "artifactstore": "kosDemoRepo"
+      }
+    ]
+  }

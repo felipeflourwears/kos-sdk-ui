@@ -1,0 +1,25 @@
+{
+  "name": "popa-rack-models-model",
+  "type": "kos.model",
+  "version": "0.1.0",
+  "models": {
+    "screen": {
+      "name": "screen",
+      "type": "screen-model",
+      "singleton": false
+    },
+    "screen-container": {
+      "name": "screen-container",
+      "type": "screen-container-model",
+      "singleton": true,
+      "container": true
+    }
+  },
+  "generator": {
+    "defaults": {
+      "model": {
+        "folder": "models"
+      }
+    }
+  }
+}
